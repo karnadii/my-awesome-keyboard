@@ -30,3 +30,12 @@ I want to make a series of marvelous65. a standard version, a split version and 
 ## Marvelous ergo
 an alice like layout version. sooon.... PCB on the way, not design a case yet. maybe the first alice like layout with wireless.
 ![Marvelous ergo keyboard](https://camo.githubusercontent.com/bf4ebfb3af045d9f9dd0299602067c1bd08bac20dd58fda037b67cc42ee34cb1/68747470733a2f2f692e696d6775722e636f6d2f33314e323450772e706e67)
+
+## Marvelous pad
+planned not designed yet
+
+---
+ I can not believe I can go this far. I know almost nothing when entering this hobby. Thanks to this hobby I have learn a lot like 3d design to design a keyboard case, 3d printing, pcb design, soldering and many more. This skill will sure useful in the future.
+ 
+ This hobby is costing money so much, So I plan to complete my marvelous65 keyboard series and open source it then retire from this hobby and change to another hobby.
+ 
